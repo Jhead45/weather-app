@@ -7,8 +7,7 @@ const Display = (props) => {
 
 //console.log(props.value[0]);
 
-//let precip = props.value[3]
-//console.log(precip);
+
   
   return (
    

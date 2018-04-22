@@ -49,6 +49,4 @@ class Weather extends Component {
 export default Weather;
 
 
-// {this.state.result.map(result => <Display key={result.id} value={result} />)}
-// data in Nashville, TN and render the temperature, apparent temperature, humidity, and precipitation on the DOM.
 
