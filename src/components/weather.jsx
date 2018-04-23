@@ -29,6 +29,8 @@ class Weather extends Component {
        //console.log(results);
        
 
+      }).catch((err) => {
+        console.log(err);
       });
   }
 
