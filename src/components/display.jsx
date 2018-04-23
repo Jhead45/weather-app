@@ -1,6 +1,4 @@
 import React from 'react';
-import Weather from './weather';
-import { Link } from "react-router-dom";
 
 
 const Display = (props) => {

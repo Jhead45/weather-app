@@ -1,13 +1,10 @@
 import React, { Component } from "react";
 import Weather from "./weather";
-import Display from "./display";
 import Home from "./home";
 import { BrowserRouter as Router, Route, Switch, Link } from "react-router-dom";
 
 class App extends Component {
-  constructor(props) {
-    super(props);
-  }
+
 
 
 
